@@ -1,0 +1,41 @@
+
+Dummy_001_Costumes.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Decals/torso_tint_001
+  rotate: false
+  xy: 2, 2
+  size: 35, 34
+  orig: 362, 670
+  offset: 152, 314
+  index: -1
+Decals/torso_tint_002
+  rotate: false
+  xy: 39, 8
+  size: 33, 28
+  orig: 362, 670
+  offset: 153, 317
+  index: -1
+Decals/torso_tint_003
+  rotate: false
+  xy: 2, 38
+  size: 84, 81
+  orig: 362, 670
+  offset: 123, 290
+  index: -1
+Decals/upperleg_f_tint_003
+  rotate: false
+  xy: 177, 40
+  size: 62, 79
+  orig: 362, 670
+  offset: 177, 144
+  index: -1
+Decals/upperleg_n_tint_003
+  rotate: true
+  xy: 88, 55
+  size: 64, 87
+  orig: 362, 670
+  offset: 103, 141
+  index: -1

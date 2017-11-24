@@ -1,0 +1,118 @@
+
+Dummy_001.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base/foot_f_skin
+  rotate: false
+  xy: 439, 18
+  size: 84, 33
+  orig: 362, 670
+  offset: 186, 20
+  index: -1
+Base/foot_n_skin
+  rotate: false
+  xy: 525, 18
+  size: 83, 33
+  orig: 362, 670
+  offset: 111, 16
+  index: -1
+Base/hand_f_fist_skin
+  rotate: false
+  xy: 731, 8
+  size: 53, 53
+  orig: 362, 670
+  offset: 215, 193
+  index: -1
+Base/hand_n_fist_skin
+  rotate: false
+  xy: 786, 6
+  size: 53, 53
+  orig: 362, 670
+  offset: 54, 188
+  index: -1
+Base/head_skin
+  rotate: true
+  xy: 2, 6
+  size: 119, 197
+  orig: 362, 670
+  offset: 99, 384
+  index: -1
+Base/hips_skin
+  rotate: false
+  xy: 615, 53
+  size: 99, 72
+  orig: 362, 670
+  offset: 116, 186
+  index: -1
+Base/lowerarm_f_skin
+  rotate: true
+  xy: 610, 4
+  size: 47, 69
+  orig: 362, 670
+  offset: 212, 224
+  index: -1
+Base/lowerarm_n_skin
+  rotate: true
+  xy: 925, 32
+  size: 45, 68
+  orig: 362, 670
+  offset: 67, 219
+  index: -1
+Base/lowerleg_f_skin
+  rotate: true
+  xy: 716, 63
+  size: 62, 104
+  orig: 362, 670
+  offset: 184, 22
+  index: -1
+Base/lowerleg_n_skin
+  rotate: true
+  xy: 822, 61
+  size: 64, 101
+  orig: 362, 670
+  offset: 106, 17
+  index: -1
+Base/neck_skin
+  rotate: false
+  xy: 681, 4
+  size: 48, 47
+  orig: 362, 670
+  offset: 135, 355
+  index: -1
+Base/torso_skin
+  rotate: true
+  xy: 201, 2
+  size: 123, 148
+  orig: 362, 670
+  offset: 99, 230
+  index: -1
+Base/upperarm_f_skin
+  rotate: true
+  xy: 351, 2
+  size: 49, 86
+  orig: 362, 670
+  offset: 193, 277
+  index: -1
+Base/upperarm_n_skin
+  rotate: true
+  xy: 925, 79
+  size: 46, 87
+  orig: 362, 670
+  offset: 78, 272
+  index: -1
+Base/upperleg_f_skin
+  rotate: true
+  xy: 351, 53
+  size: 72, 130
+  orig: 362, 670
+  offset: 173, 109
+  index: -1
+Base/upperleg_n_skin
+  rotate: true
+  xy: 483, 53
+  size: 72, 130
+  orig: 362, 670
+  offset: 99, 103
+  index: -1
